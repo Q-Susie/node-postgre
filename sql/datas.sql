@@ -1,0 +1,5 @@
+-- INSERT INTO test (test_name)
+--   SELECT
+--     'tests-' || x.id
+--   FROM generate_series(1, 1000) AS x(id)
+-- ;
